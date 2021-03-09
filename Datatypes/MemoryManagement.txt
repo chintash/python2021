@@ -1,0 +1,20 @@
+
+Types of Memory - Python
+
+
+There are two types of Memory :
+
+1) Stack Memory 
+2) Heap Memory
+
+
+Stack Memory:
+
+Stack memory is arrnaged in mutliple blocks and is serialized or Arranged. 
+Stack basically stores the Keys/Variables only
+
+whereas in Heap is Dynamic Memory, there is no arrangment on how the data is store, it is allocated dynamically.
+Heap memory bascically stores the Values only 
+
+Mapping between the Stack Memory and Heap memory is done via Hashing*
+
